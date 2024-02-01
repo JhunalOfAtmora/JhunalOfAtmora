@@ -1,4 +1,4 @@
-Coding, Programming, & Hacking are akin to Magic to me. I seek to become a magician and the IDE will become my Grimore.
+Coding, Programming, & Hacking are akin to Magic to me. I seek to become a magician and the IDE will be my Grimore.
 
 I have an interest in Robotics and ROS, Ruby, Python, and Java experience & interest at the moment.
 
